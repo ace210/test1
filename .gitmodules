@@ -1,3 +1,6 @@
 [submodule "test2Folder"]
 	path = test2Folder
 	url = https://github.com/ace210/test2.git
+[submodule "test3Folder"]
+	path = test3Folder
+	url = https://github.com/ace210/test3.git
