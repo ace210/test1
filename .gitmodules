@@ -4,3 +4,7 @@
 [submodule "test3Folder"]
 	path = test3Folder
 	url = https://github.com/ace210/test3.git
+[submodule "test4Folder"]
+	path = test4Folder
+	url = https://github.com/ace210/test4.git
+	branch = branch1
