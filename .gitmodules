@@ -1,6 +1,3 @@
-[submodule "test2Folder"]
-	path = test2Folder
-	url = https://github.com/ace210/test2.git
 [submodule "test4Folder"]
 	path = test4Folder
 	url = https://github.com/ace210/test4.git
@@ -8,4 +5,8 @@
 [submodule "test3Folder"]
 	path = test3Folder
 	url = https://github.com/ace210/test3.git
+	branch = 2018/04/07-00-04
+[submodule "test2Folder"]
+	path = test2Folder
+	url = https://github.com/ace210/test2.git
 	branch = 2018/04/07-00-04
